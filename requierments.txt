@@ -1,0 +1,6 @@
+streamlit
+llama-index
+transformers
+pinecone-client
+huggingface_hub
+python-dotenv
